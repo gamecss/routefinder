@@ -13,6 +13,8 @@
   "devDependencies": {
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
-    "vue-cli-plugin-element-plus": "~0.0.13"
+    "vue-cli-plugin-element-plus": "~0.0.13",
+    "json-schema": ">=0.4.0",
+    "glob-parent": ">=5.1.2"
   }
 }
